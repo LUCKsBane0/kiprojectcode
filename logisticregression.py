@@ -27,3 +27,6 @@ hearts['2500'] = 0
 triangles['2500'] = 1
 circles['2500'] = 2
 squares['2500'] = 3
+#for shape in df_all:
+    #df_all[shape][2501] = 1
+    #do logisticfun etc
