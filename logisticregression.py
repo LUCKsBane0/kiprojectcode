@@ -30,3 +30,4 @@ squares['2500'] = 3
 #for shape in df_all:
     #df_all[shape][2501] = 1
     #do logisticfun etc
+    #dddd
