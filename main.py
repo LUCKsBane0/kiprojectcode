@@ -2,7 +2,7 @@ import pandas as pd
 import random
 from sklearn.neighbors import KNeighborsClassifier
 
-iterations = 25
+iterations = 1000
 
 hearts = pd.read_csv('hvectors.csv')
 triangles = pd.read_csv('dvectors.csv')
